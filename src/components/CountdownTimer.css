@@ -1,0 +1,54 @@
+.countdown-timer {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+  }
+  
+  .time-display {
+    font-size: 8em;
+    margin-bottom: 20px;
+    display: block;
+  
+    height: 50%;
+   
+
+  }
+  
+  .controls {
+    margin-top: 20px;
+  }
+  
+  .controls label {
+    margin: 0 10px;
+  }
+  
+  input[type="number"] {
+    width: 60px;
+    height: 20px;
+    font-size: 1em;
+    text-align: center;
+  }
+  
+  button {
+    margin: 5px 10px;
+    padding: 5px 10px;
+    font-size: 1em;
+    padding: 10px 40px;
+    border-radius: 10px;
+
+  }
+  .Button-start {
+    background-color: rgb(132, 228, 132);
+    color: white;
+  }
+  
+  .Button-pause {
+    background-color: rgb(210, 210, 85);
+    color: white;
+  }
+  .btn-clear{
+    background-color: red;
+    color: white;
+  }
+  
